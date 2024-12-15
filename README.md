@@ -1,6 +1,6 @@
 # Google Colab Notebook Repository
 
-Welcome to my collection of Google Colab notebooks! This repository includes a variety of notebooks designed for tasks ranging from image generation and model training to data analysis and visualization.
+Welcome to my collection of Google Colab notebooks! This repository includes a variety of notebooks designed for tasks ranging from generative ai text models to image generation and model training to data analysis and visualization.
 
 ---
 
